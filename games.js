@@ -2,7 +2,7 @@ const games = [
     {
         name: "GTA V",
         image: "images/gta.jpg",
-        link: "https://example.com",
+        link: "https://bowfile.com/90kO",
         category: "أكشن"
     },
     {

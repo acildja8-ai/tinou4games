@@ -20,7 +20,7 @@ const games = [
     {
         name: "Need For Speed",
         image: "images/nfs.jpg",
-        link: "https://example.com",
+        link: "https://shortner.cc/DDfU",
         category: "سباق"
     }
 ];

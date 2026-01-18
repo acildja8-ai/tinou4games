@@ -11,6 +11,18 @@ const games = [
         link: "https://example.com",
         category: "رياضة"
     },
+    {
+        name: "PES 2021",
+        image: "images/pes.jpg",
+        link: "https://example.com",
+        category: "رياضة"
+    },
+    {
+        name: "Need For Speed",
+        image: "images/nfs.jpg",
+        link: "https://example.com",
+        category: "سباق"
+    }
 ];
 
 const gamesList = document.getElementById("gamesList");

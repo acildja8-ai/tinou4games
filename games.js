@@ -2,7 +2,7 @@ const games = [
     {
         name: "GTA V",
         image: "images/gta.jpg",
-        link: "https://example.com",
+        link: "shortner.cc/cP6u",
         category: "أكشن"
     },
     {
@@ -52,4 +52,5 @@ function filterCategory(cat) {
         const filtered = games.filter(game => game.category === cat);
         displayGames(filtered);
     }
+
 }

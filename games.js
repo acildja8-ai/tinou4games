@@ -6,7 +6,7 @@ const games = [
         category: "أكشن"
     },
     {
-        name: "FIFA 23",
+        name: "FIFA 22",
         image: "images/fifa.jpg",
         link: "https://example.com",
         category: "رياضة"

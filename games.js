@@ -2,7 +2,7 @@ const games = [
     {
         name: "GTA V",
         image: "images/gta.jpg",
-        link: "shortner.cc/cP6u",
+        link: "https://www.youtube.com/watch?v=qpvFXPhzzFU",
         category: "أكشن"
     },
     {
@@ -54,3 +54,4 @@ function filterCategory(cat) {
     }
 
 }
+
